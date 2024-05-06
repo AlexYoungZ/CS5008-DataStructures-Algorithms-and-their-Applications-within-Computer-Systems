@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/siyangzhang/Documents/GitHub/CS5008_siyangzhang/labs/lab11-more-graphs/graph.h
+stdio.h
+-
+stdlib.h
+-
+stdbool.h
+-
+queue.h
+/Users/siyangzhang/Documents/GitHub/CS5008_siyangzhang/labs/lab11-more-graphs/queue.h
+stack.h
+/Users/siyangzhang/Documents/GitHub/CS5008_siyangzhang/labs/lab11-more-graphs/stack.h
+
+/Users/siyangzhang/Documents/GitHub/CS5008_siyangzhang/labs/lab11-more-graphs/main.c
+stdio.h
+-
+graph.h
+/Users/siyangzhang/Documents/GitHub/CS5008_siyangzhang/labs/lab11-more-graphs/graph.h
+
+/Users/siyangzhang/Documents/GitHub/CS5008_siyangzhang/labs/lab11-more-graphs/queue.h
+stdio.h
+-
+stdlib.h
+-
+stdbool.h
+-
+
+/Users/siyangzhang/Documents/GitHub/CS5008_siyangzhang/labs/lab11-more-graphs/stack.h
+stdio.h
+-
+stdlib.h
+-
+

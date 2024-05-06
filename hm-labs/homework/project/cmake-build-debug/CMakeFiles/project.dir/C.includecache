@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/siyangzhang/Documents/GitHub/CS5008_siyangzhang/homework/project/list.c
+stdlib.h
+-
+string.h
+-
+stdio.h
+-
+list.h
+/Users/siyangzhang/Documents/GitHub/CS5008_siyangzhang/homework/project/list.h
+
+/Users/siyangzhang/Documents/GitHub/CS5008_siyangzhang/homework/project/list.h
+
+/Users/siyangzhang/Documents/GitHub/CS5008_siyangzhang/homework/project/main.c
+stdio.h
+-
+ternarySearchTree.h
+/Users/siyangzhang/Documents/GitHub/CS5008_siyangzhang/homework/project/ternarySearchTree.h
+
+/Users/siyangzhang/Documents/GitHub/CS5008_siyangzhang/homework/project/ternarySearchTree.c
+string.h
+-
+list.h
+/Users/siyangzhang/Documents/GitHub/CS5008_siyangzhang/homework/project/list.h
+ternarySearchTree.h
+/Users/siyangzhang/Documents/GitHub/CS5008_siyangzhang/homework/project/ternarySearchTree.h
+
+/Users/siyangzhang/Documents/GitHub/CS5008_siyangzhang/homework/project/ternarySearchTree.h
+stdio.h
+-
+stdlib.h
+-
+stdbool.h
+-
+list.h
+/Users/siyangzhang/Documents/GitHub/CS5008_siyangzhang/homework/project/list.h
+

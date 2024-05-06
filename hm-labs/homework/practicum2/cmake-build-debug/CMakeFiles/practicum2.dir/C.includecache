@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/siyangzhang/Documents/GitHub/CS5008_siyangzhang/homework/practicum2/floydWarshallNonRecursive.h
+stdio.h
+-
+
+/Users/siyangzhang/Documents/GitHub/CS5008_siyangzhang/homework/practicum2/floydWarshallRecursive.h
+stdio.h
+-
+stdlib.h
+-
+
+/Users/siyangzhang/Documents/GitHub/CS5008_siyangzhang/homework/practicum2/main.c
+stdio.h
+-
+time.h
+-
+floydWarshallNonRecursive.h
+/Users/siyangzhang/Documents/GitHub/CS5008_siyangzhang/homework/practicum2/floydWarshallNonRecursive.h
+floydWarshallRecursive.h
+/Users/siyangzhang/Documents/GitHub/CS5008_siyangzhang/homework/practicum2/floydWarshallRecursive.h
+

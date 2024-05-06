@@ -1,0 +1,16 @@
+1. What happens to the structure when you insert nodes in this order? 1, 3, 4,1000,
+then we begin inserting 44, 556, 392, 21, 35, 126, 135 ... etc?
+
+it will split at the median & push up the median when node is full(left key as left child and vice versa),
+if the node is not full it will continue to insert the new key in increasing order;
+
+2. Will retrieval be efficient?
+What's the Big O of this poorly constructed ill conceived data structure born out of a fever dream?
+not efficient since the keys within the node is not in sorted order thus creating new node will also not be in order,
+making traversing cost O(n)
+
+3. How would you fix insertion for this tree?
+Here's an "official" government version of the B-tree:
+https://xlinux.nist.gov/dads/HTML/btree.html (https://xlinux.nist.gov/dads/HTML/btree.html)
+Explain how the insertion, or add, of a new node would work.
+the normal add operation is explained in Q1, with O(logn) complexity

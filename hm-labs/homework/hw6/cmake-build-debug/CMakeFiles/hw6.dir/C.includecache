@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/siyangzhang/Documents/GitHub/CS5008_siyangzhang/homework/hw6/main.c
+stdio.h
+-
+unistd.h
+-
+pthread.h
+-
+semaphore.h
+-
+

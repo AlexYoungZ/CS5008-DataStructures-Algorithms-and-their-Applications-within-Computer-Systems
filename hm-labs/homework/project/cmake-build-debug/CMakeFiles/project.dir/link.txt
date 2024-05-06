@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/cc -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/project.dir/main.c.o CMakeFiles/project.dir/list.c.o CMakeFiles/project.dir/ternarySearchTree.c.o -o project 

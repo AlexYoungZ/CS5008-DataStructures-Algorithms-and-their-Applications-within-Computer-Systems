@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/siyangzhang/Documents/GitHub/CS5008_siyangzhang/homework/hw2/shell/main.c
+sys/wait.h
+-
+sys/types.h
+-
+unistd.h
+-
+stdlib.h
+-
+stdio.h
+-
+string.h
+-
+

@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/cc -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/lab04_library.dir/hidden/secret.c.o CMakeFiles/lab04_library.dir/hack.c.o CMakeFiles/lab04_library.dir/lottery.c.o -o lab04_library 

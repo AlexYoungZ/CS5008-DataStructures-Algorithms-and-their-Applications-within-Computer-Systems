@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="lab10_matrix"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/siyangzhang/Documents/GitHub/CS5008_siyangzhang/labs/lab10-matrix/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/Users/siyangzhang/Documents/GitHub/CS5008_siyangzhang/labs/lab10-matrix/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/Users/siyangzhang/Documents/GitHub/CS5008_siyangzhang/labs/lab10-matrix/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/Users/siyangzhang/Documents/GitHub/CS5008_siyangzhang/labs/lab10-matrix/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/Users/siyangzhang/Documents/GitHub/CS5008_siyangzhang/labs/lab10-matrix/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/siyangzhang/Documents/GitHub/CS5008_siyangzhang/labs/lab10-matrix/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/Users/siyangzhang/Documents/GitHub/CS5008_siyangzhang/labs/lab10-matrix/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/Users/siyangzhang/Documents/GitHub/CS5008_siyangzhang/labs/lab10-matrix/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/Users/siyangzhang/Documents/GitHub/CS5008_siyangzhang/labs/lab10-matrix/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/Users/siyangzhang/Documents/GitHub/CS5008_siyangzhang/labs/lab10-matrix/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/siyangzhang/Documents/GitHub/CS5008_siyangzhang/labs/lab10-matrix/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/Users/siyangzhang/Documents/GitHub/CS5008_siyangzhang/labs/lab10-matrix/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/Users/siyangzhang/Documents/GitHub/CS5008_siyangzhang/labs/lab10-matrix/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/Users/siyangzhang/Documents/GitHub/CS5008_siyangzhang/labs/lab10-matrix/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/Users/siyangzhang/Documents/GitHub/CS5008_siyangzhang/labs/lab10-matrix/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="lab10_matrix">
+				<Option output="/Users/siyangzhang/Documents/GitHub/CS5008_siyangzhang/labs/lab10-matrix/cmake-build-debug/lab10_matrix" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/siyangzhang/Documents/GitHub/CS5008_siyangzhang/labs/lab10-matrix/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/Users/siyangzhang/Documents/GitHub/CS5008_siyangzhang/labs/lab10-matrix/cmake-build-debug/Makefile&quot;  VERBOSE=1 lab10_matrix"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/Users/siyangzhang/Documents/GitHub/CS5008_siyangzhang/labs/lab10-matrix/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/Users/siyangzhang/Documents/GitHub/CS5008_siyangzhang/labs/lab10-matrix/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/Users/siyangzhang/Documents/GitHub/CS5008_siyangzhang/labs/lab10-matrix/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="lab10_matrix/fast">
+				<Option output="/Users/siyangzhang/Documents/GitHub/CS5008_siyangzhang/labs/lab10-matrix/cmake-build-debug/lab10_matrix" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/siyangzhang/Documents/GitHub/CS5008_siyangzhang/labs/lab10-matrix/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/Users/siyangzhang/Documents/GitHub/CS5008_siyangzhang/labs/lab10-matrix/cmake-build-debug/Makefile&quot;  VERBOSE=1 lab10_matrix/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/Users/siyangzhang/Documents/GitHub/CS5008_siyangzhang/labs/lab10-matrix/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/Users/siyangzhang/Documents/GitHub/CS5008_siyangzhang/labs/lab10-matrix/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/Users/siyangzhang/Documents/GitHub/CS5008_siyangzhang/labs/lab10-matrix/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/siyangzhang/Documents/GitHub/CS5008_siyangzhang/labs/lab10-matrix/adjacencymatrix.c">
+			<Option target="lab10_matrix"/>
+		</Unit>
+		<Unit filename="/Users/siyangzhang/Documents/GitHub/CS5008_siyangzhang/labs/lab10-matrix/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

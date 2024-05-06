@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/siyangzhang/Documents/GitHub/CS5008_siyangzhang/homework/hw10/main.c
+stdio.h
+-
+stdlib.h
+-
+stdbool.h
+-
+queue.h
+/Users/siyangzhang/Documents/GitHub/CS5008_siyangzhang/homework/hw10/queue.h
+
+/Users/siyangzhang/Documents/GitHub/CS5008_siyangzhang/homework/hw10/queue.h
+stdio.h
+-
+stdlib.h
+-
+stdbool.h
+-
+

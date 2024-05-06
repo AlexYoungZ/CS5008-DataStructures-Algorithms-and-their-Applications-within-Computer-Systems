@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/siyangzhang/Documents/GitHub/CS5008_siyangzhang/homework/practicum/linked_hashmap.h
+pthread.h
+-
+stdio.h
+-
+stdlib.h
+-
+
+/Users/siyangzhang/Documents/GitHub/CS5008_siyangzhang/homework/practicum/main.c
+stdio.h
+-
+pthread.h
+-
+linked_hashmap.h
+/Users/siyangzhang/Documents/GitHub/CS5008_siyangzhang/homework/practicum/linked_hashmap.h
+treemap.h
+/Users/siyangzhang/Documents/GitHub/CS5008_siyangzhang/homework/practicum/treemap.h
+
+/Users/siyangzhang/Documents/GitHub/CS5008_siyangzhang/homework/practicum/treemap.h
+stdio.h
+-
+stdlib.h
+-
+

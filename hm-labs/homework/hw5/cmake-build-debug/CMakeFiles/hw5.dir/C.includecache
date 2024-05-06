@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/siyangzhang/Documents/GitHub/CS5008_siyangzhang/homework/hw5/heap.h
+stdio.h
+-
+stdlib.h
+-
+stdbool.h
+-
+
+/Users/siyangzhang/Documents/GitHub/CS5008_siyangzhang/homework/hw5/main.c
+stdio.h
+-
+heap.h
+/Users/siyangzhang/Documents/GitHub/CS5008_siyangzhang/homework/hw5/heap.h
+

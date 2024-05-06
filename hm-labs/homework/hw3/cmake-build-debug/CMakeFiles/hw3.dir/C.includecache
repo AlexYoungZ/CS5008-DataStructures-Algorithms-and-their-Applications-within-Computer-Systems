@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/siyangzhang/Documents/GitHub/CS5008_siyangzhang/homework/hw3/dlinkedlist.c
+stdio.h
+-
+stdlib.h
+-
+stdbool.h
+-
+
+/Users/siyangzhang/Documents/GitHub/CS5008_siyangzhang/homework/hw3/linkedlist.c
+stdio.h
+-
+stdlib.h
+-
+stdbool.h
+-
+

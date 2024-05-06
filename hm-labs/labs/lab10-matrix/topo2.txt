@@ -1,0 +1,10 @@
+eat sleep
+eat exercise
+study game
+study music
+sleep read
+sleep study
+read homework
+homework movie
+game shopping
+
